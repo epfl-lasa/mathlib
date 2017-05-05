@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/epfl-lasa/mathlib.svg?branch=master)](https://travis-ci.org/epfl-lasa/mathlib)
+
 # mathlib
 
 This the mathlib package of the robottoolkit. 
